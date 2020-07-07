@@ -5,6 +5,7 @@ You Can do with this file:
 1. Logical operator usage in handlebars Templat
 2. Transform String to Upper Case and LowerCase
 3. Debugging a Varialbe
+4. for usage in logical syntax
 
 Register:
 =============
@@ -59,9 +60,16 @@ For toLowerCase
 ```
 {{toLowerCase aVariable}}
 ```
-1. degug
+7. degug
 for debuging varible
 ```
 {{debug scripts}}
 ```
+8. #ifCond :
+For Logical Comparison (==,===,!=,!==,<,<=,>,>=,&&,||)
+Example: use your logical Operator instead of ||  
+```
+{{#ifCond aVariable '||' other Varialbe }} Somthing {{/ifCond}}
+```
+
 
