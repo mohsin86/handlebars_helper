@@ -53,4 +53,9 @@ For toLowerCase
 ```
 {{toLowerCase aVariable}}
 ```
+1. degug
+for debuging varible
+```
+{{debug scripts}}
+```
 
