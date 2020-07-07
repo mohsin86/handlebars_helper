@@ -1,5 +1,11 @@
 # handlebars_helper
 
+You Can do with this file:
+
+1. Logical operator usage in handlebars Templat
+2. Transform String to Upper Case and LowerCase
+3. Debugging a Varialbe
+
 Register:
 =============
 register helpers for .hbs template like this
